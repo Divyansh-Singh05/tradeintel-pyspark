@@ -9,4 +9,4 @@ if __name__ == "__main__":
     run_silver()
     run_gold()
 
-    print("Pipeline complete 🚀")
+    print("Pipeline complete")
