@@ -26,6 +26,10 @@ st.markdown(
         .stTextInput input, .stTextArea textarea, .stSelectbox div[data-baseweb="select"] > div {
             color: #0f172a !important;
         }
+        div[data-testid="stTextArea"] textarea {
+            color: #ffffff !important;
+            caret-color: #ffffff !important;
+        }
         [data-testid="stSidebar"], [data-testid="stSidebar"] * {
             color: #ffffff !important;
         }
